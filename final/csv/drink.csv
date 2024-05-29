@@ -1,0 +1,13 @@
+﻿filename,path,img_prod_nm,class
+0001.jpg,/home/mmc/disk2/duck/cap/cnn/drink_2/images_224/val/0001.jpg,코카콜라 캔 250ml,10
+0009.jpg,/home/mmc/disk2/duck/cap/cnn/drink_2/images_224/train/0009.jpg,펩시콜라 캔 250ml,1
+0002.jpg,/home/mmc/disk2/duck/cap/cnn/drink_2/images_224/val/0002.jpg,바리스타룰스 모카프레소 250ml,2
+0003.jpg,/home/mmc/disk2/duck/cap/cnn/drink_2/images_224/val/0003.jpg,가야농장 알로에농장 500ml,3
+0004.jpg,/home/mmc/disk2/duck/cap/cnn/drink_2/images_224/val/0004.jpg,펩시제로콜라 500ml,4
+0005.jpg,/home/mmc/disk2/duck/cap/cnn/drink_2/images_224/val/0005.jpg,코카콜라 1.5L,6
+0006.jpg,/home/mmc/disk2/duck/cap/cnn/drink_2/images_224/val/0006.jpg,롯데 이프로 복숭아 500ml,7
+0007.jpg,/home/mmc/disk2/duck/cap/cnn/drink_2/images_224/val/0007.jpg,포카리스웨트 620ml,8
+0011.jpg,/home/mmc/disk2/duck/cap/cnn/drink_2/images_224/val/0011.jpg,펩시제로콜라 뚱캔 355ml,9
+0012.jpg,/home/mmc/disk2/duck/cap/cnn/drink_2/images_224/val/0012.jpg,칠성사이다 뚱캔 355ml,0
+0033.jpg,/home/mmc/disk2/duck/cap/cnn/drink_2/images_224/train/0033.jpg,코카콜라 500ml,5
+
