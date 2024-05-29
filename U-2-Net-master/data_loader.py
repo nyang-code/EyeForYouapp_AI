@@ -1,4 +1,4 @@
-# data loader
+# data loader.
 from __future__ import print_function, division
 import glob
 import torch
