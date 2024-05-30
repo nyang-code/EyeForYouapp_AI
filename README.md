@@ -30,7 +30,7 @@
 <br>
 
 ## Tech
-<img src="https://skillicons.dev/icons?i=fastapi,python,dcomponents&perline="/>
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,dcomponents&perline="/>
 
 ## 1. 프로젝트 명
 >시각장애인을 위한 AI카메라 앱 서비스 
